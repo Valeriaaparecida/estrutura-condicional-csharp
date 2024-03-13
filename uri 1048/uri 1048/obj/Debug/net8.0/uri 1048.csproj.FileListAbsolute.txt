@@ -1,0 +1,15 @@
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\bin\Debug\net8.0\uri 1048.exe
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\bin\Debug\net8.0\uri 1048.deps.json
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\bin\Debug\net8.0\uri 1048.runtimeconfig.json
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\bin\Debug\net8.0\uri 1048.dll
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\bin\Debug\net8.0\uri 1048.pdb
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.AssemblyInfoInputs.cache
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.AssemblyInfo.cs
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.sourcelink.json
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.dll
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\refint\uri 1048.dll
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.pdb
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\uri 1048.genruntimeconfig.cache
+C:\Users\valer\Desktop\C#-Nélio Alves\C# PRIMEIROS PASSOS\projetos\uri 1048\uri 1048\obj\Debug\net8.0\ref\uri 1048.dll
