@@ -35,4 +35,4 @@ O foco destes exercícios é o **treino intensivo de estruturas condicionais**, 
 ## 🖥️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone (https://github.com/Valeriaaparecida/estrutura-condicional-csharp.git)
